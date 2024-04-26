@@ -1,8 +1,8 @@
 const Footer = () => {
   return (
     <a
-      className='text-ulaan h-20 w-full text-center'
-      href='https://ebo.com'
+      className='text-ulaan flex h-20 w-full justify-center text-center'
+      href='https://facebook.com/B.Altanzaya'
       target='_blank'
     >
       {' '}
