@@ -1,9 +1,13 @@
 const Footer = () => {
   return (
-    <div className='text-ulaan h-20 w-full text-center'>
+    <a
+      className='text-ulaan h-20 w-full text-center'
+      href='https://ebo.com'
+      target='_blank'
+    >
       {' '}
       &copy; MStars Hub, Developed by Zaya{' '}
-    </div>
+    </a>
   )
 }
 
